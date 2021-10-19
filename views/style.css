@@ -1,0 +1,46 @@
+h1{color: aqua;
+    margin-left: 2%;
+    
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+}
+nav{   
+    background-color:burlywood;
+    padding-top: 1%;
+    padding-bottom: 1%; 
+}
+nav ul{
+    width: 40%;
+    display: flex;
+    justify-content: space-around; 
+}
+h2{
+    color: brown;
+    margin-left: 5%;
+    font-weight: bold;
+
+}
+h3{
+    margin-left: 5%;
+    margin-right: 45%;
+    margin-top: 2%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    background-color:skyblue;
+}
+p{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+ .choix{
+     margin-left: 10%;
+     color:saddlebrown;
+     font-weight: bolder;
+     
+ } 
+
